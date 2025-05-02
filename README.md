@@ -1,10 +1,11 @@
-# Water Reminder Script
+# 💧 Water Reminder Script
 
-This simple Python script helps you stay hydrated by reminding you to drink water every hour. The script uses the `plyer` library to send desktop notifications.
+This simple Python script helps you stay hydrated by reminding you to drink water every hour. The script uses the `plyer` library to send desktop notifications and includes a beep sound for added alert.
 
 ## Features:
-- Sends a notification every hour reminding you to drink water.
-- Customizable interval (currently set to 1 hour).
+- Sends a desktop notification every hour reminding you to drink water.
+- Plays a beep sound before the notification (Windows only).
+- Customizable reminder interval (currently set to 1 hour).
 
 ## Installation
 
